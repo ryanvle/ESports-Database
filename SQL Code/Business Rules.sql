@@ -203,24 +203,3 @@ ALTER TABLE tblTOURNAMENT
 ADD CONSTRAINT CK_NoRoster
 CHECK(dbo.fn_NoRoster() = 0)
 GO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
