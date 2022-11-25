@@ -4,7 +4,7 @@ There is no convenient way to get in-depth information on all the games a team p
 Complaint: There is no convenient way (in one place) to check all the games a team plays 
 1. So? So if someone wants to follow a team or its team members across many games, they would have to first be exposed to that other game
 2. So? So it’s hard for people who want to support a team (and its members) or play the same game as a certain team to start doing so
-3 .So? We are missing out on increasing the playerbase of tons of games, being the fans that are dedicated to certain teams and want to imitate them
+3. So? We are missing out on increasing the playerbase of tons of games, being the fans that are dedicated to certain teams and want to imitate them
 - There are tons of these fans, enough for there to be articles dedicated specifically towards them (https://www.hitc.com/en-gb/2021/08/27/faze-promises-fans-membership-after-win-how-to-join-the-twitter-recruitment/)
 - Esports players have giant followings on social media, especially streaming platforms like Twitch and Youtube (Faker has 3.8 million followers on Twitch, and probably even higher viewership from those without accounts, for example)
 
