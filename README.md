@@ -1,4 +1,5 @@
 #ESports-Database
+
 There is no convenient way to get in-depth information on all the games a team plays. If someone wants to follow a team or its team members across many games, they are stuck behind the wall of having to first be exposed to those games. It’s hard for people who want to support a team and its members or play the same game as a certain team to start doing so. We are missing out on increasing the player base of tons of games, being the fans that are dedicated to certain teams and want to imitate them. Because of the sheer number of players, each with their own generous following (maybe an average of 500,000 fans each), missing out on having them bleed into different games also means missing out on crazy increases in revenue for different tournaments as well as in-game purchases. It also simply prevents current players from dropping the game due to it becoming less popular and “dying.”
 -------------------------------------------------------------------------------------------------------------------------------
 Complaint: There is no convenient way (in one place) to check all the games a team plays
